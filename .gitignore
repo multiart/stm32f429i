@@ -1,0 +1,6 @@
+*.d
+*.elf
+*.hex
+*.map
+*.o
+*.sublime-workspace
